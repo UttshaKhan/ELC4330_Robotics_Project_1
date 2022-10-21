@@ -1,3 +1,5 @@
+% Project1: input DH table (Nx4), and limit table (Nx2) and use stick to
+% call each variable.
 clear all;
 close all;
 clc;

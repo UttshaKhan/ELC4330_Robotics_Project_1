@@ -5,8 +5,7 @@ function stick(DH,varargin)
     % checking for all inputs of varargin
     if nargin>1
         limit_table=varargin{1};
-        %if number of input arguments >1, set the limit table = vararg in
-        %is a ones matrix
+        %if number of input arguments >1, set the limit table
     else
         limit_table=repmat([0 360],size(DH,1),1);
         %if number of in put arguments </= 1, then limit table is a

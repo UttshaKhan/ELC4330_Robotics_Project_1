@@ -1,3 +1,4 @@
+%this function performs translation in given axis
 function t=Trans(axis,dist)
 
 if(axis=='X')

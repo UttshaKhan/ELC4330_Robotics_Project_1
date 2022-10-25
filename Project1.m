@@ -1,7 +1,7 @@
 %This work is done for project 1 of ELC 4330 in Fall 2022
 %
 % Group # 01
-%Group Member:
+%Group Members:
 %Stephen E. Balzora
 %Irrtisum Khan
 %

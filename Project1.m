@@ -13,7 +13,7 @@ clc;
 %DH Format:   1     2  3    4
 %           [Theta  d  a  Alpha]
 
-DH=         [inf   0  00  90
+DH=         [inf  .5  00  90
              0   inf  00 -90
              inf   0  0  90];
 % 
